@@ -1,3 +1,10 @@
+# The below is to ignore a compiled binary
+# Pattern from the below link
+# https://stackoverflow.com/a/31326382
+*
+!*/
+!*.*
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
